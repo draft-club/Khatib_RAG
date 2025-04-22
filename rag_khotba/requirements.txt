@@ -1,0 +1,10 @@
+streamlit
+torch
+sentence-transformers
+faiss-cpu
+google-cloud-texttospeech
+pandas
+numpy
+scikit-learn
+transformers
+streamlit-aggrid
